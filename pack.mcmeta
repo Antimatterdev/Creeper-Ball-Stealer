@@ -1,0 +1,34 @@
+{
+  "pack": {
+    "description": [
+      {
+        "text": "Creeper Ball Stealer",
+        "color": "green"
+      },
+      {
+        "text": "\nI stole the Creepers Balls so they cant destroy blocks anymore",
+        "color": "gray"
+      }
+    ],
+    "pack_format": 15,
+    "supported_formats": {
+      "min_inclusive": 12,
+      "max_inclusive": 2147483647
+    },
+    "min_format": 12,
+    "max_format": 2147483647
+  },
+  "overlays": {
+    "entries": [
+      {
+        "formats": {
+          "min_inclusive": 48,
+          "max_inclusive": 2147483647
+        },
+        "min_format": 48,
+        "max_format": 2147483647,
+        "directory": "mc1_21"
+      }
+    ]
+  }
+}
